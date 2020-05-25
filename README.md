@@ -7,6 +7,8 @@ Assignment2 part1: Server
 Dikstra algorithm, to find least cost path in a graph.
 C++ terminal program designed for Ubuntu. 
 
+![alt text](https://github.com/danny-cpp/Dijkstra-algorithm/blob/master/result_on_Arduino.gif?raw=true)
+
 ### include file:      
 - READEME
 - digraph.h
