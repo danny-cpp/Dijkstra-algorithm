@@ -1,7 +1,7 @@
 # Dijkstra-algorithm
-## Name: Junrui Zhu/Danh Nguyen
-## CMPUT275, Winter 2019
-## Assignment2 part1: Server
+### Name: Junrui Zhu/Danh Nguyen
+CMPUT275, Winter 2019
+Assignment2 part1: Server
 
 ### Introduction
 Dikstra algorithm, to find least cost path in a graph.
