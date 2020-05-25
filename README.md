@@ -25,7 +25,6 @@ C++ terminal program designed for Ubuntu.
 4. Use make clean to remove objectives and executable.
 
 ### Acknowledgement:
-		Using codes developed in class, all rights reserved to the respective owners. These including:
-djikstra pseudocode, algorithms, shortest path, part 1 starting files.
+Edmonton graph data (edmonton-roads-2.0.1.txt) is provided. Graph and Heap class from our own previous works. Files used under permission of CMPUT275 course University of Alberta. All rights reserved.
 
 
