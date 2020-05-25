@@ -9,9 +9,6 @@ Program designed as backbone for server feedback of the Edmonton pathfinder Ardu
 
 ![alt text](https://github.com/danny-cpp/Dijkstra-algorithm/blob/master/result_on_Arduino.gif?raw=true)
 
-
-![alt text](https://github.com/danny-cpp/Dijkstra-algorithm/blob/master/result_on_Arduino.gif?raw=true)
-
 ### include file:      
 - READEME
 - digraph.h
