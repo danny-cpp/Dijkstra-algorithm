@@ -5,7 +5,10 @@ Assignment2 part1: Server
 
 ### Introduction
 Dikstra algorithm, to find least cost path in a graph.
-C++ terminal program designed for Ubuntu. 
+Program designed as backbone for server feedback of the Edmonton pathfinder Arduino interface project, can be used as C++ terminal program on Ubuntu (Windows not tested).
+
+![alt text](https://github.com/danny-cpp/Dijkstra-algorithm/blob/master/result_on_Arduino.gif?raw=true)
+
 
 ### include file:      
 - READEME
